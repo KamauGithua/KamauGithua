@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<!-- <img align="right" width="400" alt="Coding" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b76112n5tn5q94hs6arf98czedswkc7gqg7egmup7j3jh&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
-
-
-  <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b76112n5tn5q94hs6arf98czedswkc7gqg7egmup7j3jh&ep=v1_gifs_search&rid=giphy.webp&ct=g" 
-       alt="Coding GIF"
-       width="400px"
-       height="auto"
-       style="border-radius: 10px; box-shadow: 3px 3px 10px rgba(0,0,0,0.2);">
-
+<!-- <img align="right" width="400" alt="Coding" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b76112n5tn5q94hs6arf98czedswkc7gqg7egmup7j3jh&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamausimon&label=Profile%20views&color=0e75b6&style=flat" alt="kamausimon" /> </p>

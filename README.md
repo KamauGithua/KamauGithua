@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b76112n5tn5q94hs6arf98czedswkc7gqg7egmup7j3jh&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamausimon&label=Profile%20views&color=0e75b6&style=flat" alt="kamausimon" /> </p>
 

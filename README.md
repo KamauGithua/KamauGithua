@@ -1,7 +1,9 @@
+<!-- ![Header](./your-header-image-name.png) -->
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
 <!-- <img align="right" width="400" alt="Coding" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp?cid=790b76112n5tn5q94hs6arf98czedswkc7gqg7egmup7j3jh&ep=v1_gifs_search&rid=giphy.webp&ct=g"> -->
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamausimon&label=Profile%20views&color=0e75b6&style=flat" alt="kamausimon" /> </p>
